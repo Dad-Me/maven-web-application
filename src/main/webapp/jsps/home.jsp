@@ -31,7 +31,7 @@
 <hr>
 <hr>
 <p align=center>Red Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://redtechnologies.com/">Red Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://redtechnologies.com/">Red Technologiess</a> </small></p>
 
 </body>
 </html>
